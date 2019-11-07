@@ -1,10 +1,10 @@
 // Add your code here
 function submitData(name, email) {
 
-    let formData = {
-      name: name,
-      email: email
-      };
+    // let formData = {
+    //   name: name,
+    //   email: email
+    //   };
        
       let configObj = {
         method: "POST",
@@ -12,7 +12,7 @@ function submitData(name, email) {
           "Content-Type": "application/json",
           "Accept": "application/json"
         },
-        body: JSON.stringify(formData)
+        body: JSON.stringify(name, email)
       };
        
       fetch("http://localhost:3000/users", configObj)
