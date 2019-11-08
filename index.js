@@ -7,7 +7,7 @@ function submitData(name, email) {
         headers: { 'Content-Type': 'application/json', 'accept': 'application/json' },
         body: JSON.stringify({ name, email })
     }).then(res => { return res.json() }).then(json => document.body.innerHTML = json["id"]).catch(function(error) {
-        alert("Unauthorized Access");
-        console.log(error.message);
+        alert("Unauthorized Access")
+        documt.body.innerHTML = error.message
       })
 } 
