@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,33 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "German Shepherd",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Molly",
+      "dogBreed": "Lab Mutt",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "Layla",
+      "dogBreed": "Husky / Sheltie Mix",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +46,263 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 1
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 2
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 3
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 4
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 5
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 6
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 7
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 8
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 9
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 10
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 11
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 12
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 13
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 14
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 15
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 16
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 17
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 18
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 19
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 20
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 21
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 22
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 23
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 24
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 25
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 26
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 27
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 28
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 29
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 30
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 31
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 32
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 33
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 34
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 35
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 36
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 37
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 38
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 39
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 40
+    },
+    {
+      "name": "No One",
+      "email": "this_is_stupid@tokilily.com",
+      "id": 41
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 42
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 43
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 44
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 45
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 46
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 47
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 48
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 49
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah@tokilily.com",
+      "id": 50
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
