@@ -2,10 +2,12 @@
 
 
 const submitData = (name, email) => {
+
   let formData = {
     name: name,
     email: email
   }
+
   return fetch("http://localhost:3000/users", {
     method: "POST",
     headers: {
@@ -14,15 +16,10 @@ const submitData = (name, email) => {
     },
   body: JSON.stringify(formData)
   })
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function(object) {
-    document.body.innerHTML = object["id"]
-  })
-  .catch(function(error) {
-    document.body.innerHTML = error.message
-  })
+  .then(response => response.json())
+  .then(json => document.querySelector('body').innerHTML = JSON.stringify(json))
+  .catch(errorMsg => document.querySelector('body').innerHTML = errorMsg)
+
 }
 
 
