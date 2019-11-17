@@ -85,11 +85,6 @@
       "userName": "timmy",
       "userEmail": "timmy@timmy.com",
       "id": 1
-    },
-    {
-      "name": "Caleb",
-      "email": "test@email.com",
-      "id": 2
     }
   ],
   "robots": [
