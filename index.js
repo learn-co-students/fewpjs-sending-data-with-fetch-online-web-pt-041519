@@ -10,8 +10,8 @@ return fetch("http://localhost:3000/users", {
             "Accept": "application/json"
           },
           body: JSON.stringify({
-            name: "Steve",
-            email: "steve@steve.com"
+            name: name,
+            email: email
         })
     })
 
